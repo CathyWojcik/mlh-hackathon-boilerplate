@@ -20,25 +20,26 @@ tracking:
 
 # Let people connect & engage with you through social media.
 social:
-  twitter_handle: "MLHacks"
+  twitter_handle: "@hack230"
+
 
 # This is Search Engine Optimization. It'll help your website look better on search.
 seo:
-  title:       "Example Hacks | 5/6 August 2016"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
+  title:       "HACK230 April 29-30, 2017"
+  description: "This is our official website of HACK230--Consolidated High School Distric 230's 1st Ever Hackathon."
   image:       "https://prime.mlh.io/img/logos/mlh-prime-color.svg"
 
 # Event information.
 event:
-  name:        "Example Hacks"
-  description: "This is a sample hackathon website that you can use by following instructions on GitHub."
-  date:        "5 & 6 August 2016"
-  location:    "Holmdel, NJ, United States"
+  name:        "HACK230"
+  description: "Two day event where high school students will hack out a real world solution to a real world challenge in healthcare, energy effiency and human services"
+  date:        "April 29-30th, 2017"
+  location:    "Tinley Park, IL, United States"
 
   trust_badge:
     year:   "2017"  # season year
-    region: "eu"    # "na" or "eu"
-    color:  "white" # "white", "black", "gray", "red", "blue" or "yellow"
+    region: "NA"    # "na" or "eu"
+    color:  "grey" # "white", "black", "gray", "red", "blue" or "yellow"
 
   hero:
     links:
@@ -51,9 +52,8 @@ event:
 
   about:
     description: >
-      Example Hacks is a hackathon hosted at The University of Example.
-      This is your opportunity to describe your event, what to expect, where it is & anything unique to your event.
-      Keep it straightforward, don't make it too long.
+      1st ever hackathon hosted at Victor J. Andrew High School.
+     wo day event where high school students will hack out a real world solution to a real world challenge in healthcare, energy effiency and human services
 
   # Info Sections
   info:
@@ -61,15 +61,15 @@ event:
       - image: "images/image1.png"
         title: "LEARN."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+      Challenge students to solve real world problems with a team 
       - image: "images/image2.png"
         title: "BUILD."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+         Develop teamwork, organization and problem solving skills
       - image: "images/image3.png"
         title: "SHARE."
         description: >
-          We can write something nice with a graphic (as above) to make the event more appealing.
+          Share your innovative ideas to judges and the community
 
   # Frequently asked questions.
   faq:
@@ -82,11 +82,10 @@ event:
         Nothing. Attending a hackathon is free.
     - question: "Do I need to be a student to attend?"
       answer: >
-        Yes. Only students who are currently enrolled at a college/university or
-        have graduated within the past 12 months are eligible to attend.
+        Yes. Only students who are currently enrolled at a high school are eligible to attend.
     - question: "Where is the event?"
       answer: >
-        The event is being hosted at [insert venue location here].
+        The event is being hosted at Victor J. Andrew High School in Tinley Park, IL.
     - question: "What is Major League Hacking?"
       answer: >
         Major League Hacking is [the official student hackathon league](https://mlh.io) in North America & Europe.
